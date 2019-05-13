@@ -1,0 +1,10 @@
+C:\Users\klass\AppData\Local\Temporary Projects\kr_mos\bin\Debug\kr_mos.exe
+C:\Users\klass\AppData\Local\Temporary Projects\kr_mos\bin\Debug\kr_mos.pdb
+C:\Users\klass\AppData\Local\Temporary Projects\kr_mos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\klass\AppData\Local\Temporary Projects\kr_mos\obj\Debug\kr_mos.exe
+C:\Users\klass\AppData\Local\Temporary Projects\kr_mos\obj\Debug\kr_mos.pdb
+C:\Users\klass\AppData\Local\Temporary Projects\kr_mos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\klass\AppData\Local\Temporary Projects\kr_mos\bin\Release\kr_mos.exe
+C:\Users\klass\AppData\Local\Temporary Projects\kr_mos\bin\Release\kr_mos.pdb
+C:\Users\klass\AppData\Local\Temporary Projects\kr_mos\obj\Release\kr_mos.exe
+C:\Users\klass\AppData\Local\Temporary Projects\kr_mos\obj\Release\kr_mos.pdb

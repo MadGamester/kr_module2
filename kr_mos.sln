@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kr_mos", "kr_mos.csproj", "{66605206-B3B6-4AFE-9ED1-7F247E15F77D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66605206-B3B6-4AFE-9ED1-7F247E15F77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66605206-B3B6-4AFE-9ED1-7F247E15F77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66605206-B3B6-4AFE-9ED1-7F247E15F77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66605206-B3B6-4AFE-9ED1-7F247E15F77D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
